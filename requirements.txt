@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain_ollama
+beautifulsoup4
+requests
+lxml
+html5lib
